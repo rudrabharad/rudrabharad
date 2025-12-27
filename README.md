@@ -1,4 +1,4 @@
-## Hi there 👋 from rudrabhaard
+## Hi there 👋
 # Cybersecurity Homelab
 
 
